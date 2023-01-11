@@ -1,0 +1,110 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: HomoeRunner: PCN OrderSync\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-24 13:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: includes/admin/class-pcnordersync-settings.php:36
+msgid "Add the status new orders in your webshop gets"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:47
+#: includes/admin/class-pcnordersync-settings.php:66
+msgid "Cancelled"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:46
+#: includes/admin/class-pcnordersync-settings.php:65
+msgid "Completed"
+msgstr ""
+
+#. Author of the plugin
+msgid "HomeRunner"
+msgstr ""
+
+#. Name of the plugin
+msgid "HomeRunner: PCN OrderSync"
+msgstr ""
+
+#: includes/functions.php:8
+msgid "Every 5 minutes"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:49
+#: includes/admin/class-pcnordersync-settings.php:68
+msgid "Failed"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://homerunner.com"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:45
+#: includes/admin/class-pcnordersync-settings.php:64
+msgid "On hold"
+msgstr ""
+
+#. Description of the plugin
+msgid "Ordresynkronisering af orderstatus imod PakkecenterNord"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:15
+#: includes/admin/class-pcnordersync-settings.php:29
+msgid "PCN OrderSync - Settings"
+msgstr ""
+
+#: woocommerce_pcn_ordersync.php:54
+msgid "PCN OrderSync requires that PCN StockSync is installed."
+msgstr ""
+
+#: woocommerce_pcn_ordersync.php:42
+msgid "PCN OrderSync requires that WooCommerce is installed."
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:43
+#: includes/admin/class-pcnordersync-settings.php:62
+msgid "Pending payment"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:44
+#: includes/admin/class-pcnordersync-settings.php:63
+msgid "Processing"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:48
+#: includes/admin/class-pcnordersync-settings.php:67
+msgid "Refunded"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:35
+msgid "Status for new orders"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:54
+msgid "Wanted status when order is packed and ready to charge?"
+msgstr ""
+
+#: includes/admin/class-pcnordersync-settings.php:55
+msgid ""
+"What status do you want the plugin to set the order when order is packed."
+msgstr ""
+
+#: woocommerce_pcn_ordersync.php:55
+msgid "You can download PCN StockSync here: "
+msgstr ""
+
+#: woocommerce_pcn_ordersync.php:43
+msgid "You can download WooCommerce here: "
+msgstr ""
