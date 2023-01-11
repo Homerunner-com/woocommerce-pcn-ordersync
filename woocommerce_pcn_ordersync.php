@@ -6,8 +6,8 @@
  * Version: 1.0
  * Author: HomeRunner
  * Author URI: http://homerunner.com
- * Developer: Kevin Hansen / HomeRunner
- * Developer URI: http://homerunner.dk
+ * Developer: Kevin Steen Hansen / HomeRunner
+ * Developer URI: http://homerunner.com
  * Text Domain: homerunner-pcn-ordersync
  * Domain Path: /languages
  *
